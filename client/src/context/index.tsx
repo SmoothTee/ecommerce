@@ -1,6 +1,6 @@
 import React, { ReactNode } from "react";
-import { ReactQueryConfigProvider } from "react-query";
 import { BrowserRouter } from "react-router-dom";
+import { ReactQueryConfigProvider } from "react-query";
 
 import { AuthProvider } from "./AuthContext";
 
